@@ -7,6 +7,8 @@
     "dev": "vite"
   },
   "dependencies": {
-  "astro": "^4.8.0"
-  }
+    "astro": "^4.8.0",
+    "@astrojs/cloudflare": "^11.0.0",
+    "@astrojs/react": "^4.2.0"
+  }  
 }
