@@ -6,7 +6,7 @@
     "preview": "vite preview",
     "dev": "vite"
   },
-  "devDependencies": {
-    "vite": "^5.0.0"
+  "dependencies": {
+  "astro": "^4.8.0"
   }
 }
